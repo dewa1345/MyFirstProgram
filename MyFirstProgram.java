@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;  // Import Random class
 
-public class MyFirstProgramJava {
+public class MyFirstProgram {
     public static void main(String[] args) {
         System.out.println("(Java version : " + System.getProperty("java.version")+")"); //Credits Abel El Zachary 
         String green = "\u001B[32m";
