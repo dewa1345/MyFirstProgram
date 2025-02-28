@@ -13,3 +13,7 @@ I remember when pak kasmir did it he doesnt had to declare it but from geeksforg
  # Output
 
 ![Image](https://github.com/user-attachments/assets/ee33379c-b73f-4689-ac1a-2550d3fc7f04)
+
+And the last challenge is random i am so confused on hwo to use 
+import java.util.Random;
+thankfully theres chatGPT love you 
